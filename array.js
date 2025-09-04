@@ -12,3 +12,6 @@ arr.pop(); // To remove element from the end
 for (const items of arr) {
     console.log(items);
 }
+
+
+// Read about map, filter, reduce, slice and splice
